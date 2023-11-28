@@ -33,6 +33,7 @@ dependencies {
 	implementation 'io.springfox:springfox-swagger-ui:3.0.0' // Swagger 버전에 맞게 수정
 	implementation "io.springfox:springfox-boot-starter:3.0.0" // 이게 없어서 안된거 같다.
 	implementation "io.springfox:springfox-swagger-ui:3.0.0"
+
 }
 
 
